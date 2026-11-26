@@ -12,4 +12,4 @@ python3 calculator.py
 ## Features
 
 - Addition, subtraction, multiplication and division
-- Status: basic version with four arithmetic operations
+- Status: v1.1 - division by zero now shows a clear error message
