@@ -16,6 +16,9 @@ class TestCalculator(unittest.TestCase):
     def test_divide(self):
         self.assertEqual(divide(8, 2), 4)
 
+    def test_divide_rounding(self):
+        self.assertEqual(divide(10, 3), 3.3333)
+
     def test_divide_by_zero(self):
         with self.assertRaises(ValueError):
             divide(5, 0)

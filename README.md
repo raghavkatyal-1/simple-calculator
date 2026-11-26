@@ -12,4 +12,5 @@ python3 calculator.py
 ## Features
 
 - Addition, subtraction, multiplication and division
-- Status: v1.1 - division by zero now shows a clear error message
+- Status: v1.1 - division by zero shows a clear error message and
+  division results are rounded to 4 decimal places
