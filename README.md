@@ -12,4 +12,4 @@ python3 calculator.py
 ## Features
 
 - Addition, subtraction, multiplication and division
-- Status: basic version with four arithmetic operations
+- Status: v1.1 - division results are rounded to 4 decimal places
